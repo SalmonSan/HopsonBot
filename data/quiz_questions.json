@@ -8,7 +8,8 @@
         "Geography",
         "Music",
         "History",
-        "Science"
+        "Science",
+        "Miscellaneous"
     ],
     "questions": [
         {
@@ -633,6 +634,42 @@
             "question": "What kind of verebrate is a dolphin?",
             "answer": "Mammal",
             "author": "293835615513083918"
+        },
+        {
+            "cat": "Movies",
+            "question": "What was the movie directed by David Lynch in which appears the infamous 'Radiator Girl'?",
+            "answer": "Eraserhead",
+            "author": "343644106569940994"
+        },
+        {
+            "cat": "Music",
+            "question": "Who is the killer of black metal artist Euronymous?",
+            "answer": "Varg Vikernes",
+            "author": "343644106569940994"
+        },
+        {
+            "cat": "Music",
+            "question": "What is the real name of the 'Chord of the Devil'?",
+            "answer": "Tritone",
+            "author": "343644106569940994"
+        },
+        {
+            "cat": "Miscellaneous",
+            "question": "Which was the first book of british author William Golding?",
+            "answer": "Lord of the flies",
+            "author": "343644106569940994"
+        },
+        {
+            "cat": "Movies",
+            "question": "What was the initial name of Luke Skywalker, which was changed due to sounding too 'Cheesy'?",
+            "answer": "Luke Starkiller",
+            "author": "343644106569940994"
+        },
+        {
+            "cat": "Computer-Science",
+            "question": "Which was the programmer of the BUILD engine, on which Duke Nukem 3D, Rise of the Triad and Blood ran on?",
+            "answer": "Ken Silverman",
+            "author": "343644106569940994"
         }
     ]
 }
